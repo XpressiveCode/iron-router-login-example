@@ -1,7 +1,5 @@
 {
   "packages": {
-    "iron-router": {},
-    "iron-router-resource": {},
-    "iron-router-output": {}
+    "iron-router": {}
   }
 }

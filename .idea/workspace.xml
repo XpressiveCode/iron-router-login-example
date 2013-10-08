@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/views/layout.html">
+      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="20" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+            <state line="5" column="0" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="router.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/router.js">
+      <file leaf-file-name="smart.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/smart.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="24" selection-start="354" selection-end="354" vertical-scroll-proportion="0.33007336" vertical-offset="0" max-vertical-offset="818">
+            <state line="4" column="1" selection-start="45" selection-end="45" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="165">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.48447204" vertical-offset="0" max-vertical-offset="805">
               <folding />
             </state>
           </provider>
@@ -75,18 +84,6 @@
               <folding>
                 <marker date="1381274780161" expanded="true" signature="24:113" placeholder="..." />
                 <marker date="1381274780161" expanded="true" signature="56:101" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="root.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/views/root/root.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
-              <folding>
-                <marker date="1381274216881" expanded="true" signature="21:104" placeholder="..." />
-                <marker date="1381274216881" expanded="true" signature="58:92" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -139,8 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/server/app.js" />
-        <option value="$PROJECT_DIR$/client/app.js" />
         <option value="$PROJECT_DIR$/client/views/404.html" />
         <option value="$PROJECT_DIR$/client/rouer.js" />
         <option value="$PROJECT_DIR$/client/views/layout.html" />
@@ -155,12 +150,14 @@
         <option value="$PROJECT_DIR$/client/subscriptions/users.js" />
         <option value="$PROJECT_DIR$/server/publications/users.js" />
         <option value="$PROJECT_DIR$/client/router.js" />
+        <option value="$PROJECT_DIR$/smart.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="371" />
-    <option name="y" value="80" />
+    <option name="x" value="260" />
+    <option name="y" value="154" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -237,6 +234,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="publications" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,7 +420,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="371" y="80" width="1400" height="1000" extended-state="0" />
+    <frame x="260" y="154" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -475,8 +486,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="11" selection-start="105" selection-end="105" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165">
           <folding>
-            <marker date="1381274216881" expanded="true" signature="21:104" placeholder="..." />
-            <marker date="1381274216881" expanded="true" signature="58:92" placeholder="..." />
+            <marker date="1381274216881" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1381274216881" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -545,7 +556,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="354" selection-end="354" vertical-scroll-proportion="0.33007336" vertical-offset="0" max-vertical-offset="818">
+        <state line="5" column="0" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="1" selection-start="45" selection-end="45" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.48447204" vertical-offset="0" max-vertical-offset="805">
           <folding />
         </state>
       </provider>

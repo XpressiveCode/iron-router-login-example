@@ -1,14 +1,10 @@
 Router.configure({
     layout: 'layout',
     notFoundTemplate: '404',
-    loadingTemplate: 'loading',
-    routesUri: '/_routes'
+    loadingTemplate: 'loading'
 });
 
 Router.map(function(){
-
-    this.resource('clients');
-
     this.route('root', {
         path: '/',
         controller: 'rootController',
