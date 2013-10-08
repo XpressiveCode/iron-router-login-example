@@ -1,6 +1,6 @@
 # IronRouter Login Example with Custom Profile Field
 
-A little example to demonstrate how to handle authentication using a combination of [IronRouter](https://github.com/EventedMind/iron-router) and the `accounts-google` package.
+A little example to demonstrate how to handle authentication using a combination of [IronRouter](https://github.com/EventedMind/iron-router) and the `accounts-google`, `accounts-ui` packages.
 
 It includes an additional check to see if the user has already set a custom profile field called 'company'. If not, it will continue to redirect them to the update profile page. Once the user has authenticated and has set a valid company name they will be able to access their `dashboard`.
 
