@@ -9,5 +9,3 @@ preserve-inputs
 accounts-ui
 accounts-google
 iron-router
-iron-router-resource
-iron-router-output
